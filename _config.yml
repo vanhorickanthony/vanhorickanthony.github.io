@@ -1,1 +1,5 @@
-theme: jekyll-theme-tactile
+title: homepage
+description: This page bundles together information about me, my resume, and my projects.
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-hacker
