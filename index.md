@@ -11,6 +11,6 @@ layout: default
 * Currently I'm in pursuit of an (applied) BSc in Electronics-ICT, more specifically the Cloud-specialization.
 
 ## $ wget ./CurriculumVitae
-* You can view and download my resume [here](./CurriculumVitae/web/viewer).
+* You can view and download my resume [here](./CurriculumVitae).
 * Editing is done through ShareLatex, while GitHub performs compilation & version control.
 
